@@ -7,9 +7,9 @@ Hola! este es un programa basico de operaciones de busqueda y comparacion matema
 Puedes descargar el archivo desde HTTPS o clonandolo con SSH.
 Posteriormente puedes compilarlo y ejecutarlo en tu editor de codigo favorito o si prefieres en terminal (Linux) con el comando:
 
-cd lugarDondeEstaElArchivo
-gcc archivo.c
-./a.out
+cd lugarDondeEstaElArchivo  
+gcc archivo.c  
+./a.out  
 
  :)
 
